@@ -8,7 +8,7 @@
 
 ---
 
-![osint](/img/osint.png)
+![osint](/img/OSINT.png)
 
 ---
 # Índice
