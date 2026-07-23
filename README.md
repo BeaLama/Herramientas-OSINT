@@ -8,6 +8,9 @@
 
 ---
 
+![osint](/img/osint.png)
+
+---
 # Índice
 
 - [¿Qué es este proyecto?](#qué-es-este-proyecto)
